@@ -1,2 +1,1 @@
-This is a minimalistic version of the repo found at https://github.com/CodeDem/flask-music-streaming.  I've run the app to verify that it works.
-
+This is a minimalistic version of the repo found at https://github.com/CodeDem/flask-music-streaming.  I've run the app to verify that it works.  To do it again, clone the repo into a virtual environment, issue `python app.py` then browse to `localhost:5000`.
